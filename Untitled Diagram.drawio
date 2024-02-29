@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T14:02:43.037Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="jb8lR0Wa9PKA_y-rbf5X" version="23.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-29T14:04:50.106Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="qe0ifM66yH2IRkMVyoL1" version="23.1.8" type="github" pages="2">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2074" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -427,6 +427,15 @@
             <mxPoint x="400" y="300" as="sourcePoint" />
             <mxPoint x="450" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pscdendYnrqUTHEtxmsF-13" value="Coordenador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pscdendYnrqUTHEtxmsF-14" value="Faculdade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pscdendYnrqUTHEtxmsF-15" value="Trabalha" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
